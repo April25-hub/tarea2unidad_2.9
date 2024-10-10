@@ -1,5 +1,3 @@
-# tarea2unidad_2.9
-Arzaba Diaz April 1173 3W
 print(" ")
 print("Arzaba Diaz April 3W 1173")
 def sum(numeros):
@@ -37,6 +35,5 @@ suma_resultado = sum([1, 2, 3, 4])
 multip_resultado = multip([1, 2, 3, 4])
 print(suma_resultado)  #salida: 10
 print(multip_resultado)  #salida: 24
+![image](https://github.com/user-attachments/assets/be0b810b-8df9-47bd-8ff8-32973f051029)
 
-
-![image](https://github.com/user-attachments/assets/4a0e7430-daa4-46f7-a196-629fa279f988)
